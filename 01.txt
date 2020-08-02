@@ -1,0 +1,103 @@
+# NEW TOPIC
+
+pwd
+ls 
+ls -al
+mkdir projects
+cd projects
+git init demo
+
+# NEW TOPIC
+
+npp README.md
+git add README.md
+git commit -m 'First File to Demo Repo'
+
+# NEW TOPIC
+
+cd .git/
+ls -al
+rm -rf .git
+
+# NEW TOPIC
+npp LICENSE.md
+git add .
+git commit
+
+# NEW TOPIC
+
+git log
+git show
+
+# NEW TOPIC
+
+git ls-files
+git commit -am 'Update README.md'
+
+# NEW TOPIC
+
+git reset HEAD README.md
+git checkout -- README.md
+
+# NEW TOPIC
+
+git log
+git help log
+git log --oneline
+git log --graph
+git log --decorate
+git log --all
+git log --oneline --graph --decorate --all
+git config --global alias.hist "log --oneline --graph --decorate --all"
+git config --global --list
+git hist
+git hist -- README.md
+
+# NEW TOPIC
+
+notepad example.txt
+git add .
+git commit -m 'Add new file'
+git mv example.txt demo.txt
+git commit -m 'Rename file'
+git rm demo.txt
+git commit -m 'Delete file'
+
+# NEW TOPIC
+
+ls 
+ls -l
+ls -al
+git add -u
+git add -A
+
+# NEW TOPIC
+
+git add .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
