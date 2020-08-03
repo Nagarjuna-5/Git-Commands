@@ -1,0 +1,16 @@
+# NEW TOPIC
+
+GitHub is a Git repository hosting service.
+GitHub, Inc. is a United States-based global company
+that provides hosting for software development and version control using Git.
+It has been a subsidiary of Microsoft since 2018.
+It offers the distributed version control and source code management functionality of Git, plus its own features.
+
+# NEW TOPIC
+
+git remote -v
+git remote add origin https://github.com/spiyush0212/demo.git
+
+# NEW TOPIC
+
+
