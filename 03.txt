@@ -13,4 +13,12 @@ git remote add origin https://github.com/spiyush0212/demo.git
 
 # NEW TOPIC
 
+git push 
+git push -u origin master
+git push -u origin master --tag
+
+# NEW TOPIC
+
+
+
 
