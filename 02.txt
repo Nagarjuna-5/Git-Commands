@@ -1,0 +1,74 @@
+# NEW TOPIC
+
+git diff 235e5dt3 HEAD
+git difftool 235e5dt3 HEAD
+git diff
+git difftool
+git help diff
+
+# NEW TOPIC
+
+Fast Forward Merge
+Automatic Merge
+Conflicting Merge
+
+# NEW TOPIC
+
+Head points to the last commit on the current branch
+
+# NEW TOPIC
+
+git branch
+git checkout -b updates
+git checkout master
+git merge updates
+git branch -d updates
+
+# NEW TOPIC
+
+cat README.md
+git mergetool
+rm README.md.orig
+
+# NEW TOPIC
+
+git tag mytag
+git tag --list
+git show
+git tag -d mytag
+git tag -a v1.0 -m 'Release 1.0'
+git show v1.0
+
+# NEW TOPIC
+
+git stash
+git stash list
+git stash pop
+
+# NEW TOPIC
+
+git reset eb75dcd --soft
+git reset 4fb0e71 --mixed
+git reset d3d7393 --hard
+git log --oneline
+git reflog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
