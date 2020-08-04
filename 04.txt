@@ -1,0 +1,11 @@
+# NEW TOPIC
+
+SSH is more secure than HTTPS
+HTTPS makes us re enter the password many times and is less secure.
+.pub file is the Public Key while id_rsa is the private key
+
+# NEW TOPIC
+
+mkdir .ssh
+ssh-keygen -t rsa -C "spiyush@yahoo.com"
+ssh -T git@github.com
