@@ -1,6 +1,8 @@
 # Basic Theory and Terminal Commands
 
-for my __6.5 hours Udemy Course__ on _Git and GitHub_
+for a __6.5 hours Udemy Course__ on _Git and GitHub_
+
+Click here to access the course: https://www.udemy.com/course/github-ultimate
 
 ## NOTE 
 
